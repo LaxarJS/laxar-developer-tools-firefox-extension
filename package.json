@@ -1,0 +1,19 @@
+{
+   "title": "laxar-developer-tools-firefox-extension",
+   "name": "laxar-developer-tools-firefox-extension",
+   "version": "0.1.0",
+   "description": "A browser extension for Firefox that helps to develop LaxarJS applications",
+   "main": "lib/main.js",
+   "homepage": "http://laxarjs.org",
+   "authors": "[]",
+   "engines": {
+      "firefox": ">=38.0a1",
+      "fennec": ">=38.0a1"
+   },
+   "license": "MIT",
+   "keywords": [
+      "jetpack",
+      "laxar",
+      "LaxarJS"
+   ]
+}

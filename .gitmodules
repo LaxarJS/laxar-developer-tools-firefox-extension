@@ -1,0 +1,3 @@
+[submodule "laxar-developer-tools-widget"]
+	path = laxar-developer-tools-widget
+	url = git@github.com:LaxarJS/ax-developer-tools-widget.git
