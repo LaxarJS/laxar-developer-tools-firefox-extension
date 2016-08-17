@@ -8,7 +8,7 @@
 
 self.port.on( 'toogleGrid', function( gridSettings ) {
    'use strict';
-   axDeveloperToolsToggleGrid( JSON.parse( gridSettings ), 'laxar-developer-tools-grid' );
+   axDeveloperToolsToggleGrid( JSON.parse( gridSettings ) );
 } );
 
 self.port.on( 'widgetOutline', function( data ) {

@@ -8,7 +8,7 @@
 
 self.port.on( 'getLaxarDeveloperToolsApi', function() {
    'use strict';
-   var axDeveloperToolsApi = unsafeWindow.axDeveloperToolsApi;
+   var axDeveloperToolsApi = unsafeWindow.laxarDeveloperToolsApi;
    if( axDeveloperToolsApi ) {
       self.port.emit( 'gotLaxarDeveloperToolsApi', JSON.stringify( axDeveloperToolsApi ) );
    }
