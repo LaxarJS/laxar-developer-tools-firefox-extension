@@ -1,6 +1,6 @@
 # laxar-developer-tools-firefox-extension
 
-The laxar-developer-tools-firefox-extension is a browser add on for the Firefox which helps to develop LaxarJS applications.
+The laxar-developer-tools-firefox-extension is a browser Add-on for the Firefox which helps to develop LaxarJS applications.
 It adds an additional tab to the developer tools that displays application events, helps visualizing the structure of the current page, and allows to browse log messages of the running LaxarJS application.
 
 
