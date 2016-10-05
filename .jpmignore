@@ -1,0 +1,53 @@
+# Ignore any xpi files
+
+*.xpi
+
+*.gitignore
+/.gitmodules
+/.jpmignore
+/.jshintrc
+/.travis.yml
+
+# Ignore git directory
+.git/
+/laxar-developer-tools-widget/.git/
+
+
+# Ignore source files of widget
+
+/laxar-developer-tools-widget-source/
+
+
+# Ignore files of widget
+/laxar-developer-tools-widget/.gitignore
+/laxar-developer-tools-widget/.jshintrc
+/laxar-developer-tools-widget/.travis.yml
+
+/laxar-developer-tools-widget/content/.gitignore
+/laxar-developer-tools-widget/content/.jshintrc
+
+/laxar-developer-tools-widget/content/var/flows/main/dist/*.map
+/laxar-developer-tools-widget/content/var/build/require_configured.js
+
+/laxar-developer-tools-widget/content/node_modules/*
+/laxar-developer-tools-widget/content/bower_components/*
+
+!/laxar-developer-tools-widget/content/bower_components/laxar-uikit/
+/laxar-developer-tools-widget/content/bower_components/laxar-uikit/*
+!/laxar-developer-tools-widget/content/bower_components/laxar-uikit/dist/
+/laxar-developer-tools-widget/content/bower_components/laxar-uikit/dist/*
+!/laxar-developer-tools-widget/content/bower_components/laxar-uikit/dist/themes
+/laxar-developer-tools-widget/content/bower_components/laxar-uikit/dist/themes/*
+!/laxar-developer-tools-widget/content/bower_components/laxar-uikit/dist/themes/default.theme
+/laxar-developer-tools-widget/content/bower_components/laxar-uikit/dist/themes/default.theme/*
+!/laxar-developer-tools-widget/content/bower_components/laxar-uikit/dist/themes/default.theme/fonts
+
+
+# Ignore spec test files of widget
+
+/laxar-developer-tools-widget/spec/
+/laxar-developer-tools-widget/content/includes/spec/
+/laxar-developer-tools-widget/content/includes/widgets/developer-toolbar-widget/spec/
+/laxar-developer-tools-widget/content/includes/widgets/events-display-widget/spec/
+/laxar-developer-tools-widget/content/includes/widgets/log-display-widget/spec/
+/laxar-developer-tools-widget/content/includes/widgets/page-inspector-widget/spec/
