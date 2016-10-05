@@ -3,6 +3,9 @@
 
 ## Last Changes
 
+
+## v0.2.0
+
 - [#2](https://github.com/LaxarJS/laxar-developer-tools-firefox-extension/issues/2): updated widget and improved releasing process
 
 - [#1](https://github.com/LaxarJS/laxar-developer-tools-firefox-extension/issues/1): fixed widget outline after reload with updated widget
