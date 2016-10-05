@@ -1,7 +1,7 @@
 {
    "title": "LaxarJS Developer Tools",
    "name": "laxar-developer-tools-firefox-extension",
-   "version": "0.1.0",
+   "version": "0.2.0",
    "description": "Extends the developer tools for developing LaxarJS applications",
    "main": "lib/main.js",
    "homepage": "http://laxarjs.org",
