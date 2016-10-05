@@ -7,7 +7,7 @@
    "homepage": "http://laxarjs.org",
    "authors": "[]",
    "engines": {
-      "firefox": ">=45.2"
+      "firefox": ">=45.0"
    },
    "license": "MIT",
    "keywords": [
